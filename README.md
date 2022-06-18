@@ -1,6 +1,6 @@
 # ShadyAddons
 
-REGARDING SKYTILS USERS: https://imgur.com/a/N8ckKlD <---
+**REGARDING SKYTILS USERS: https://imgur.com/a/N8ckKlD <--- (VERY IMPORTANT!! PLEASE READ) <---**
 
 A cheating mod for Hypixel Skyblock with tons of features! Including macros, automatic terminam solvers, and more!
 
